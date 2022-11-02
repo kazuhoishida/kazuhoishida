@@ -1,6 +1,6 @@
 ## Kazuho Ishida
 
-Designer & Front-End Engineer based in Tokyo, Japan. Designer & Front-End Developer based in Tokyo, Japan.
+Designer & Front-End Engineer based in Tokyo, Japan.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazuhoishida&show_icons=true&locale=en" alt="kazuhoishida" /></p>
 
@@ -72,4 +72,6 @@ Designer & Front-End Engineer based in Tokyo, Japan. Designer & Front-End Develo
 
 ## Contact
 
-Email: [kazuho.designwork@gmail.com](mailto:kazuho.designwork@gmail.com)
+    Email: [kazuho.designwork@gmail.com](mailto:kazuho.designwork@gmail.com)
+    LinkedIn: [LinkedIn](https://www.linkedin.com/in/kazuho-ishida/)
+    Wantedly: [Wantedly](https://www.wantedly.com/id/doughnut_hole)
