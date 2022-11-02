@@ -72,6 +72,6 @@ Designer & Front-End Engineer based in Tokyo, Japan.
 
 ## Contact
 
-    Email: [kazuho.designwork@gmail.com](mailto:kazuho.designwork@gmail.com)
-    LinkedIn: [LinkedIn](https://www.linkedin.com/in/kazuho-ishida/)
-    Wantedly: [Wantedly](https://www.wantedly.com/id/doughnut_hole)
+- Email: [kazuho.designwork@gmail.com](mailto:kazuho.designwork@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kazuho-ishida/)
+- Wantedly: [Wantedly](https://www.wantedly.com/id/doughnut_hole)
