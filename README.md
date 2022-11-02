@@ -53,9 +53,11 @@ Designer & Front-End Engineer based in Tokyo, Japan. Designer & Front-End Develo
 ## Languages
 
 Japanese - Native
+
 English (CEFR C1/C2） - TOEIC 910、IELTS 6.5、EF SET 77/100
+
 Chinese（CEFR B2） - HSK 4
 
 ## Contact
 
-- Email: [kazuho.designwork@gmail.com](mailto:kazuho.designwork@gmail.com)
+Email: [kazuho.designwork@gmail.com](mailto:kazuho.designwork@gmail.com)
